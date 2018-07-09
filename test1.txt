@@ -1,10 +1,1 @@
- Volume in drive D is Data
- Volume Serial Number is 187A-C4DD
-
- Directory of D:\Users\mbandyop\Desktop\MyProject
-
-09/07/2018  11:38 AM    <DIR>          .
-09/07/2018  11:38 AM    <DIR>          ..
-09/07/2018  11:38 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  123,758,247,936 bytes free
+ test1
